@@ -1,0 +1,233 @@
+{
+    "System.Runtime.CompilerServices.ExtensionAttribute": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Action": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Action`2": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Action`3": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Action`4": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Func`1": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Func`2": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Func`3": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Func`4": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Func`5": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.InvalidTimeZoneException": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Security.Cryptography.Aes": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.TimeZoneInfo": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.TimeZoneInfo/AdjustmentRule": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.TimeZoneInfo/TransitionTime": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.TimeZoneNotFoundException": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Threading.LazyThreadSafetyMode": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Lazy`1": [
+        "System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.IO.Compression.CompressionMode": [
+        "System.IO.Compression, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.IO.Compression.DeflateStream": [
+        "System.IO.Compression, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.IO.Compression.GZipStream": [
+        "System.IO.Compression, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.IO.Compression.CompressionLevel": [
+        "System.IO.Compression, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.Cookie": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.CookieCollection": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.CookieCollection/Stamp": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.CookieContainer": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.CookieException": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.HttpRequestHeader": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.HttpStatusCode": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebRequest": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebRequest/DesignerWebRequestCreate": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebRequest/WebProxyWrapperOpaque": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebRequest/WebProxyWrapper": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.HttpWebRequest": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebResponse": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.HttpWebResponse": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.ICredentials": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.IWebRequestCreate": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.NetworkCredential": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.ProtocolViolationException": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebException": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebExceptionStatus": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebHeaderCollection": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.WebHeaderCollection/HeaderEncoding": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.NetworkInformation.NetworkAddressChangedEventHandler": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.NetworkInformation.NetworkChange": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Net.NetworkInformation.NetworkInterface": [
+        "System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Numerics.Matrix3x2": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Numerics.Matrix4x4": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Numerics.Plane": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Numerics.Quaternion": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Numerics.Vector2": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Numerics.Vector3": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Numerics.Vector4": [
+        "System.Numerics.Vectors, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Numerics, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    ],
+    "System.Runtime.Serialization.Json.DataContractJsonSerializer": [
+        "System.ServiceModel.Web, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e==>System.Runtime.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Collections.Specialized.INotifyCollectionChanged": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Collections.ObjectModel.ObservableCollection`1": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Collections.ObjectModel.ReadOnlyObservableCollection`1": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Collections.Specialized.NotifyCollectionChangedAction": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Collections.Specialized.NotifyCollectionChangedEventArgs": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Collections.Specialized.NotifyCollectionChangedEventHandler": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Windows.Input.ICommand": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.ComponentModel.INotifyDataErrorInfo": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.ComponentModel.DataErrorsChangedEventArgs": [
+        "System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlMapping": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlTypeMapping": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlMappingAccess": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlSerializer": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlSerializer/SerializerData": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlSerializer/GenerationBatch": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.ServiceModel.XmlSerializerFormatAttribute": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.ServiceModel, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+    ],
+    "System.Xml.Serialization.XmlArrayItemAttributes": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlAttributeOverrides": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlAttributes": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlElementAttributes": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlAnyElementAttributes": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ],
+    "System.Xml.Serialization.XmlSerializerNamespaces": [
+        "System.Xml.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089==>System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    ]
+}

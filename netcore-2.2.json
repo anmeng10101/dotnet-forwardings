@@ -1,0 +1,888 @@
+{
+    "System.AppContext": [
+        "System.AppContext, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Collections.ArrayList": [
+        "System.Collections.NonGeneric, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Collections.Comparer": [
+        "System.Collections.NonGeneric, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Collections.Hashtable": [
+        "System.Collections.NonGeneric, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Collections.IHashCodeProvider": [
+        "System.Collections.NonGeneric, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ComponentModel.Component": [
+        "System.ComponentModel.TypeConverter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.ComponentModel.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ComponentModel.InvalidEnumArgumentException": [
+        "System.ComponentModel.TypeConverter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.ComponentModel.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ComponentModel.ISupportInitialize": [
+        "System.ComponentModel.TypeConverter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.ComponentModel.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.DBNull": [
+        "System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.BinaryOperationBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.BindingRestrictions": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.CallInfo": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.ConvertBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.CreateInstanceBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.DeleteIndexBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.DeleteMemberBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.DynamicMetaObject": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.DynamicMetaObjectBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.DynamicObject": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.ExpandoObject": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.GetIndexBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.GetMemberBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.IDynamicMetaObjectProvider": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.IInvokeOnGetBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.InvokeBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.InvokeMemberBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.SetIndexBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.SetMemberBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Dynamic.UnaryOperationBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Linq.Expressions.DynamicExpression": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Linq.Expressions.DynamicExpressionVisitor": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.CallSite": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.CallSite`1": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.CallSiteBinder": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.CallSiteHelpers": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConditionalWeakTable`2": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConditionalWeakTable`2/CreateValueCallback": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.DynamicAttribute": [
+        "System.Dynamic.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.ChineseLunisolarCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.EastAsianLunisolarCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.GregorianCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.GregorianCalendarTypes": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.HebrewCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.HijriCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.JapaneseCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.JapaneseLunisolarCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.JulianCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.KoreanCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.KoreanLunisolarCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.PersianCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.TaiwanCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.TaiwanLunisolarCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.ThaiBuddhistCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.UmAlQuraCalendar": [
+        "System.Globalization.Calendars, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.Calendar": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.CalendarWeekRule": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.CharUnicodeInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.CompareInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.CompareOptions": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.CultureInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.CultureNotFoundException": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.DateTimeFormatInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.NumberFormatInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.RegionInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.StringInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.TextElementEnumerator": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.TextInfo": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.UnicodeCategory": [
+        "System.Globalization, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.GlobalizationExtensions": [
+        "System.Globalization.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Globalization.IdnMapping": [
+        "System.Globalization.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.StringNormalizationExtensions": [
+        "System.Globalization.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.NormalizationForm": [
+        "System.Globalization.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.CodeDom.Compiler.IndentedTextWriter": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.BinaryReader": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.BinaryWriter": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.BufferedStream": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.EndOfStreamException": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileNotFoundException": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.InvalidDataException": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.IOException": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.MemoryStream": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.SeekOrigin": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.Stream": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.StreamReader": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.StreamWriter": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.StringReader": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.StringWriter": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.TextReader": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.TextWriter": [
+        "System.IO, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "Microsoft.Win32.SafeHandles.SafeFileHandle": [
+        "System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+        "System.IO.FileSystem.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileOptions": [
+        "System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileStream": [
+        "System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileAccess": [
+        "System.IO.FileSystem.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileAttributes": [
+        "System.IO.FileSystem.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileMode": [
+        "System.IO.FileSystem.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.FileShare": [
+        "System.IO.FileSystem.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.UnmanagedMemoryAccessor": [
+        "System.IO.UnmanagedMemoryStream, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.UnmanagedMemoryStream": [
+        "System.IO.UnmanagedMemoryStream, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Memory`1": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ReadOnlyMemory`1": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ReadOnlySpan`1": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Span`1": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Buffers.IMemoryOwner`1": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Buffers.IPinnable": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Buffers.MemoryHandle": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Buffers.MemoryManager`1": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ReadOnlySpan`1/Enumerator": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Span`1/Enumerator": [
+        "System.Memory, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Net.HttpRequestHeader": [
+        "System.Net.Requests, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Net.WebHeaderCollection, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Net.WebHeaderCollection": [
+        "System.Net.Requests, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Net.WebHeaderCollection, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.AmbiguousMatchException": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.Assembly": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.AssemblyContentType": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.AssemblyName": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.BindingFlags": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+        "System.Reflection.TypeExtensions, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"
+    ],
+    "System.Reflection.ConstructorInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.CustomAttributeData": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.CustomAttributeNamedArgument": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.CustomAttributeTypedArgument": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.EventInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.FieldInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ICustomAttributeProvider": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.IntrospectionExtensions": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.InvalidFilterCriteriaException": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.IReflectableType": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.LocalVariableInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ManifestResourceInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MemberFilter": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MemberInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MemberTypes": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MethodBase": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MethodInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.Module": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ParameterInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ParameterModifier": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.PropertyInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ReflectionContext": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ReflectionTypeLoadException": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ResourceLocation": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.TargetException": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.TargetInvocationException": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.TargetParameterCountException": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.TypeFilter": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.TypeInfo": [
+        "System.Reflection, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.CustomAttributeExtensions": [
+        "System.Reflection.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.InterfaceMapping": [
+        "System.Reflection.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.RuntimeReflectionExtensions": [
+        "System.Reflection.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.CallingConventions": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.EventAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.FieldAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.GenericParameterAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MethodAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.MethodImplAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.ParameterAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.PropertyAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.TypeAttributes": [
+        "System.Reflection.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Resources.ResourceReader": [
+        "System.Resources.Reader, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Resources.ResourceManager, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.MidpointRounding": [
+        "System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "Microsoft.Win32.SafeHandles.SafeWaitHandle": [
+        "System.Runtime.Handles, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.IO.HandleInheritability": [
+        "System.Runtime.Handles, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.InteropServices.CriticalHandle": [
+        "System.Runtime.Handles, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+        "System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.InteropServices.SafeHandle": [
+        "System.Runtime.Handles, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+        "System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.WaitHandleExtensions": [
+        "System.Runtime.Handles, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Reflection.Missing": [
+        "System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.InteropServices.GCHandle": [
+        "System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.InteropServices.GCHandleType": [
+        "System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.InteropServices.InAttribute": [
+        "System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.NonSerializedAttribute": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.IDeserializationCallback": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.IFormatterConverter": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.ISerializable": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.SerializationEntry": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.SerializationInfo": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.SerializationInfoEnumerator": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.SerializableAttribute": [
+        "System.Runtime.Serialization.Formatters, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.OnDeserializedAttribute": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.OnDeserializingAttribute": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.OnSerializedAttribute": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.OnSerializingAttribute": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.SerializationException": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.StreamingContext": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.StreamingContextStates": [
+        "System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.Serialization.InvalidDataContractException": [
+        "System.Runtime.Serialization.Xml, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Security.Cryptography.CryptographicException": [
+        "System.Security.Cryptography.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Security.SecureString": [
+        "System.Security.SecureString, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Security.SecureStringMarshal": [
+        "System.Security.SecureString, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime.InteropServices, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.Decoder": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.DecoderExceptionFallback": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.DecoderFallback": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.DecoderFallbackBuffer": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.DecoderFallbackException": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.DecoderReplacementFallback": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.Encoder": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.EncoderExceptionFallback": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.EncoderFallback": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.EncoderFallbackBuffer": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.EncoderFallbackException": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.EncoderReplacementFallback": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.Encoding": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Text.EncodingProvider": [
+        "System.Text.Encoding, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.AggregateException": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredTaskAwaitable": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredTaskAwaitable/ConfiguredTaskAwaiter": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.IAsyncStateMachine": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ICriticalNotifyCompletion": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.INotifyCompletion": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.TaskAwaiter": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.TaskAwaiter`1": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.YieldAwaitable": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.YieldAwaitable/YieldAwaiter": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.CancellationToken": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.CancellationTokenRegistration": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.Task": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.Task`1": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.TaskContinuationOptions": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.TaskCreationOptions": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.TaskFactory": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.TaskFactory`1": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.TaskScheduler": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.TaskStatus": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.UnobservedTaskExceptionEventArgs": [
+        "System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.ValueTask": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.ValueTask`1": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.Sources.ValueTaskSourceOnCompletedFlags": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.Sources.ValueTaskSourceStatus": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.Sources.IValueTaskSource": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Threading.Tasks.Sources.IValueTaskSource`1": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.AsyncMethodBuilderAttribute": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder`1": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ValueTaskAwaiter": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ValueTaskAwaiter`1": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable/ConfiguredValueTaskAwaiter": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1/ConfiguredValueTaskAwaiter": [
+        "System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Runtime.CompilerServices.TupleElementNamesAttribute": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.TupleExtensions": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`1": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`2": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`3": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`4": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`5": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`6": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`7": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.ValueTuple`8": [
+        "System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51==>System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlAttribute": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlAttributeCollection": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlCDataSection": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlCharacterData": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlComment": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlDeclaration": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlDocument": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlDocumentFragment": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlElement": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlImplementation": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlLinkedNode": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNamedNodeMap": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNode": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNodeChangedAction": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNodeChangedEventArgs": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNodeChangedEventHandler": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNodeList": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlProcessingInstruction": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlSignificantWhitespace": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlText": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlWhitespace": [
+        "System.Xml.XmlDocument, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.IXmlSerializable": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlAnyAttributeAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlAnyElementAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlAttributeAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlElementAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlEnumAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlIgnoreAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlNamespaceDeclarationsAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlRootAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlSchemaProviderAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlSerializerNamespaces": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.Serialization.XmlTextAttribute": [
+        "System.Xml.XmlSerializer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XmlNodeOrder": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.IXPathNavigable": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XmlCaseOrder": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XmlDataType": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XmlSortOrder": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathExpression": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathItem": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathNamespaceScope": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathNavigator": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathNodeIterator": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathNodeType": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "System.Xml.XPath.XPathResultType": [
+        "System.Xml.XPath, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a==>System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ]
+}
